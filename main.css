@@ -1,18 +1,32 @@
-  main {
-    margin: 30px;
-  }
-  
-  img {
-    height: 100px;
-  }
-  
-  /* Task 1 */
-  
-  /* Task 2 */
-  
-  /* Task 3 */
-  
-  /* Task 4 */
-  
-  /* Task 5 */
-  
+main {
+  margin: 30px;
+}
+
+img {
+  height: 100px;
+}
+
+/* Task 1 */
+h3 {
+  color: #00f;
+}
+
+/* Task 2 */
+.list-items {
+  color: #f00;
+}
+
+/* Task 3 */
+img+img {
+  border: 3px solid #00f;
+}
+
+/* Task 4 */
+#link-com {
+  background-color: #ffff00;
+}
+
+/* Task 5 */
+#task-5 {
+  color: #f3149d;
+}
